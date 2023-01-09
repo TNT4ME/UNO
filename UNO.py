@@ -109,7 +109,7 @@ while True:
         print('Name cannot more than 10 characters')
     elif not name.isalnum:
         print('Name cannot contain special characters')
-    else: break
+    else:break
 
 #run(loading(endDelay = 1000, start = True))
 
